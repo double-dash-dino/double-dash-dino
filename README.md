@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This is looking a little empty at the minute, but I'll be back to update soon
+
+Currently learning programming - HTML/CSS/REACT/REDUX/JS/Python
 <!--
 **double-dash-dino/double-dash-dino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
